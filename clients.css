@@ -1,0 +1,19 @@
+.clients-img{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+}
+.clients-imgs-icon{
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+}
+
+@media (min-width:700px) {
+    .clients-img{
+        display: flex;
+        justify-content: space-between;
+        
+
+    }
+}

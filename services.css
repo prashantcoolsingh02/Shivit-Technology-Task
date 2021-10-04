@@ -1,0 +1,49 @@
+.service-para-left{
+    padding: 2%;
+    color: rgba(0, 0, 0, 0.75);
+    text-align: justify;
+}
+.blank-heading{
+    color: rgba(0, 0, 0, 0.75);
+}
+.blank-listinhg-head:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.first-service-container-left{
+    border: 1px solid red;
+}
+.focusAreas-head{
+    padding-left: 4%;
+}
+.technolgies{
+    padding-left: 4%;
+}
+@media (min-width:700px) {
+    .unordered-listings{
+        display: flex;
+        justify-content: space-around;
+    }
+    .first-service-container{
+        display: flex;
+        justify-content: space-between;
+    }
+    .first-service-container-left{
+        width: 70%;
+    }
+    .first-service-container-right{
+        width: 30%;
+    }
+    
+}
+
+.first-service-container{
+    padding: 2%;
+}
+.first-service-container-left{
+    padding: 2%;
+}
+.first-service-container-right{
+    padding: 2%;
+}
